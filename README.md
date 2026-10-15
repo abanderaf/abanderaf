@@ -1,6 +1,6 @@
 - 👋 Hola, Soy @abanderaf
-- 👀 Explorando Python para análisis de datos.
-- 💞️ Espero colaborar con proyectos de análisis de datos y Machine Learning.
+- 👀 Explorador de datos.
+- 💞️ Inquieto con el desarrollo de herramientas.
 - 📫 Para contactarme.
 [abanderaf.github.io](https://abanderaf.github.io)
   
